@@ -1,0 +1,118 @@
+"Country","Operator","Band","Start","End","Start","End","Total","FDD U/L","FDD D/L","TDD","Operator Total","% of Band"
+"Cameroon","MTN",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,8 MHz,8 MHz,,16 MHz,23%
+"Cameroon","Orange",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,8 MHz,8 MHz,,16 MHz,23%
+"Ghana","MTN",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,8 MHz,8 MHz,,16 MHz,23%
+"Ghana","Vodafone",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,8 MHz,8 MHz,,16 MHz,23%
+"Ghana","Tigo",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,8 MHz,8 MHz,,16 MHz,23%
+"Ghana","Airtel",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,5 MHz,5 MHz,,10 MHz,14%
+"Ghana","Glo",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,5 MHz,5 MHz,,10 MHz,14%
+"Kenya","Safaricom",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,10 MHz,10 MHz,,20 MHz,29%
+"Kenya","Airtel",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,10 MHz,10 MHz,,20 MHz,29%
+"Kenya","Telkom Kenya",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,7.5 MHz,7.5 MHz,,15 MHz,21%
+"Kenya","Essar (yuMobile)",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,7.5 MHz,7.5 MHz,,15 MHz,21%
+"Namibia","MTC",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,13 MHz,13 MHz,,26 MHz,37%
+"Namibia","TN",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,10 MHz,10 MHz,,20 MHz,29%
+"Nigeria","Etilisat",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,5 MHz,5 MHz,,10 MHz,14%
+"Nigeria","Glo",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,5 MHz,5 MHz,,10 MHz,14%
+"Nigeria","Mtel",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,5 MHz,5 MHz,,10 MHz,14%
+"Nigeria","MTN",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,5 MHz,5 MHz,,10 MHz,14%
+"Nigeria","Airtel",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,5 MHz,5 MHz,,10 MHz,14%
+"Senegal","Orange (Sonatel)",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,12.4 MHz,12.4 MHz,,25 MHz,35%
+"Senegal","Tigo (Sentel)",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,10 MHz,10 MHz,,20 MHz,29%
+"Senegal","Expresso (Sudatel)",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,10 MHz,10 MHz,,20 MHz,29%
+"South Africa","Vodacom",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,11 MHz,11 MHz,,22 MHz,31%
+"South Africa","MTN",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,11 MHz,11 MHz,,22 MHz,31%
+"South Africa","CellC",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,11 MHz,11 MHz,,22 MHz,31%
+"Uganda","UTL",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,5 MHz,5 MHz,,10 MHz,14%
+"Uganda","Warid",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,5 MHz,5 MHz,,10 MHz,14%
+"Uganda","Airtel",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,7.8 MHz,7.8 MHz,,16 MHz,22%
+"Uganda","Orange",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,3.2 MHz,3.2 MHz,,6 MHz,9%
+"Uganda","MTN",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,8.2 MHz,8.2 MHz,,16 MHz,23%
+"Cameroon","Orange",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,12 MHz,12 MHz,,24 MHz,16%
+"Ghana","MTN",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,10 MHz,10 MHz,,20 MHz,13%
+"Ghana","Vodafone",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,15 MHz,15 MHz,,30 MHz,20%
+"Ghana","Tigo",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,10 MHz,10 MHz,,20 MHz,13%
+"Ghana","Airtel",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,10 MHz,10 MHz,,20 MHz,13%
+"Ghana","Glo",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,15 MHz,15 MHz,,30 MHz,20%
+"Kenya","Safaricom",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,10 MHz,10 MHz,,20 MHz,13%
+"Kenya","Airtel",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,10 MHz,10 MHz,,20 MHz,13%
+"Kenya","Telkom Kenya",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,10 MHz,10 MHz,,20 MHz,13%
+"Kenya","Essar (yuMobile)",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,10 MHz,10 MHz,,20 MHz,13%
+"Namibia","MTC",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,20 MHz,20 MHz,15 MHz,55 MHz,37%
+"Namibia","TN",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,10 MHz,10 MHz,,20 MHz,13%
+"Namibia","Paratus",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,15 MHz,15 MHz,5 MHz,35 MHz,23%
+"Namibia","iBurst",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,,,10 MHz,10 MHz,7%
+"Nigeria","Etilisat",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,15 MHz,15 MHz,,30 MHz,20%
+"Nigeria","Glo",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,15 MHz,15 MHz,,30 MHz,20%
+"Nigeria","Mtel",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,15 MHz,15 MHz,,30 MHz,20%
+"Nigeria","MTN",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,15 MHz,15 MHz,,30 MHz,20%
+"Nigeria","Airtel",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,15 MHz,15 MHz,,30 MHz,20%
+"Senegal","Orange (Sonatel)",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,16 MHz,16 MHz,,32 MHz,21%
+"Senegal","Tigo (Sentel)",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,9 MHz,9 MHz,,18 MHz,12%
+"Senegal","Expresso (Sudatel)",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,16 MHz,16 MHz,,32 MHz,21%
+"South Africa","Telkom",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,12 MHz,12 MHz,,24 MHz,16%
+"South Africa","Neotel",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,12 MHz,12 MHz,,24 MHz,16%
+"South Africa","Vodacom",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,11 MHz,11 MHz,,22 MHz,15%
+"South Africa","MTN",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,11 MHz,11 MHz,,22 MHz,15%
+"South Africa","CellC",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,11 MHz,11 MHz,,22 MHz,15%
+"Uganda","UTL",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,10 MHz,10 MHz,,20 MHz,13%
+"Uganda","Warid",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,11 MHz,12 MHz,,23 MHz,15%
+"Uganda","Airtel",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,11.8 MHz,11.8 MHz,,24 MHz,16%
+"Uganda","Orange",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,13 MHz,14 MHz,,27 MHz,18%
+"Uganda","MTN",1800MHz,1710 MHz,1785 MHz,1805 MHz,1880 MHz,150 MHz,11.8 MHz,11.8 MHz,,24 MHz,16%
+"Ghana","MTN",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Ghana","Vodafone",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,15 MHz,15 MHz,,30 MHz,25%
+"Ghana","Tigo",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,15 MHz,15 MHz,,30 MHz,25%
+"Ghana","Airtel",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Ghana","Glo",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Kenya","Safaricom",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Kenya","Airtel",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Kenya","Telkom Kenya",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Namibia","MTC",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,15 MHz,15 MHz,,30 MHz,25%
+"Namibia","TN",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Namibia","Paratus",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,20 MHz,20 MHz,,40 MHz,33%
+"Nigeria","Etilisat",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Nigeria","Glo",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Nigeria","MTN",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Nigeria","Airtel",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Senegal","Orange (Sonatel)",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Senegal","Tigo (Sentel)",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,5 MHz,5 MHz,,10 MHz,8%
+"Senegal","Expresso (Sudatel)",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"South Africa","Vodacom",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,15 MHz,15 MHz,,30 MHz,25%
+"South Africa","MTN",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,15 MHz,15 MHz,,30 MHz,25%
+"South Africa","CellC",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,15 MHz,15 MHz,,30 MHz,25%
+"South Africa","Telkom",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,15 MHz,15 MHz,,30 MHz,25%
+"Uganda","UTL",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,5 MHz,5 MHz,,10 MHz,8%
+"Uganda","Warid",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Uganda","Airtel",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Uganda","Orange",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Uganda","MTN",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
+"Uganda","K2",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,5 MHz,5 MHz,,10 MHz,8%
+"Nigeria","Bitflux Comms",2300MHz,2300 MHz,2400 MHz,,,100 MHz,,,30 MHz,30 MHz,30%
+"Senegal","CSU SA (Opérateur de Service Universel)",2300MHz,2300 MHz,2400 MHz,,,100 MHz,,,10 MHz,10 MHz,10%
+"South Africa","Telkom",2300MHz,2300 MHz,2400 MHz,,,100 MHz,,,60 MHz,60 MHz,60%
+"Ghana","Gold Key Prop. Ltd ",2600MHz,2496 MHz,2690 MHz,,,194 MHz,,,30 MHz,30 MHz,15%
+"Ghana","Broadband Home",2600MHz,2496 MHz,2690 MHz,,,194 MHz,,,30 MHz,30 MHz,15%
+"Namibia","TN",2600MHz,2496 MHz,2690 MHz,,,194 MHz,52 MHz,52 MHz,,104 MHz,54%
+"Namibia","Paratus",2600MHz,2496 MHz,2690 MHz,,,194 MHz,20 MHz,20 MHz,,40 MHz,21%
+"Senegal","Excaf Telecom",2600MHz,2496 MHz,2690 MHz,,,194 MHz,,,96 MHz,96 MHz,49%
+"Senegal","Delta Net",2600MHz,2496 MHz,2690 MHz,,,194 MHz,,,96 MHz,96 MHz,49%
+"South Africa","Sentech",2600MHz,2496 MHz,2690 MHz,,,194 MHz,,,50 MHz,50 MHz,26%
+"South Africa","WBS(iBurst)",2600MHz,2496 MHz,2690 MHz,,,194 MHz,,,15 MHz,15 MHz,8%
+"Uganda","Infocom",2600MHz,2496 MHz,2690 MHz,,,194 MHz,,,30 MHz,30 MHz,15%
+"Uganda","MTN",2600MHz,2496 MHz,2690 MHz,,,194 MHz,,,30 MHz,30 MHz,15%
+"Uganda","UTL",2600MHz,2496 MHz,2690 MHz,,,194 MHz,,,30 MHz,30 MHz,15%
+"Kenya","Telkom Kenya",3500MHz,3400 MHz,3600 MHz,,,200 MHz,11 MHz,11 MHz,,22 MHz,11%
+"Kenya","KDN",3500MHz,3400 MHz,3600 MHz,,,200 MHz,28 MHz,28 MHz,,56 MHz,28%
+"Kenya","Open Systems Tech.",3500MHz,3400 MHz,3600 MHz,,,200 MHz,7 MHz,7 MHz,,14 MHz,7%
+"Kenya","Airwaves Comms",3500MHz,3400 MHz,3600 MHz,,,200 MHz,7 MHz,7 MHz,,14 MHz,7%
+"Kenya","Comtec Group",3500MHz,3400 MHz,3600 MHz,,,200 MHz,7 MHz,7 MHz,,14 MHz,7%
+"Kenya","IGO Wireless",3500MHz,3400 MHz,3600 MHz,,,200 MHz,7 MHz,7 MHz,,14 MHz,7%
+"Kenya","SimbaNET",3500MHz,3400 MHz,3600 MHz,,,200 MHz,7 MHz,7 MHz,,14 MHz,7%
+"Kenya","PacketStream Data",3500MHz,3400 MHz,3600 MHz,,,200 MHz,8 MHz,8 MHz,,16 MHz,8%
+"Kenya","UUNet Comms",3500MHz,3400 MHz,3600 MHz,,,200 MHz,7 MHz,7 MHz,,14 MHz,7%
+"Namibia","TN",3500MHz,3400 MHz,3600 MHz,,,200 MHz,52 MHz,52 MHz,,104 MHz,52%
+"Namibia","Paratus",3500MHz,3400 MHz,3600 MHz,,,200 MHz,20 MHz,20 MHz,,40 MHz,20%
+"Nigeria","MTN",3500MHz,3400 MHz,3600 MHz,,,200 MHz,,,30 MHz,30 MHz,15%
+"Senegal","Government (ADIE)",3500MHz,3400 MHz,3600 MHz,,,200 MHz,,,100 MHz,100 MHz,50%
+"Uganda","MTN",3500MHz,3400 MHz,3600 MHz,,,200 MHz,31.5 MHz,31.5 MHz,,63 MHz,32%
