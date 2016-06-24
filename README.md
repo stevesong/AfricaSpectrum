@@ -17,7 +17,7 @@ Nigerian Communications Commission (NCC)
 ### South Africa
 Independent Communications Authority of South Africa
  
-[Spectrum usage and availability Q3](2015https://www.icasa.org.za/LegislationRegulations/EngineeringTechnology/RadioFrequencySpectrumManagement/FrequencySpectrumUsageandAvailability/tabid/394/ctl/ItemDetails/mid/1288/ItemID/12762/Default.aspx)
+[Spectrum usage and availability Q3 2015](https://www.icasa.org.za/LegislationRegulations/EngineeringTechnology/RadioFrequencySpectrumManagement/FrequencySpectrumUsageandAvailability/tabid/394/ctl/ItemDetails/mid/1288/ItemID/12762/Default.aspx)
 
 
 
