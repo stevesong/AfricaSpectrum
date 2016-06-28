@@ -21,6 +21,9 @@
 "Ghana","Gold Key Prop. Ltd ",2600MHz,2496 MHz,2690 MHz,,,194 MHz,15 MHz,15 MHz,,30 MHz,15%
 "Ghana","Surfline",2600MHz,2496 MHz,2690 MHz,,,194 MHz,15 MHz,15 MHz,,30 MHz,15%
 "Ghana","G-Kwiknet",2600MHz,2496 MHz,2690 MHz,,,194 MHz,,,30 MHz,30 MHz,15%
+"Kenya","Safaricom",800MHz,791 MHz,821 MHz,832 MHz,862 MHz,60 MHz,10 MHz,10 MHz,,20 MHz,33%
+"Kenya","Airtel",800MHz,791 MHz,821 MHz,832 MHz,862 MHz,60 MHz,10 MHz,10 MHz,,20 MHz,33%
+"Kenya","Telkom",800MHz,791 MHz,821 MHz,832 MHz,862 MHz,60 MHz,10 MHz,10 MHz,,20 MHz,33%
 "Kenya","Safaricom",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,10 MHz,10 MHz,,20 MHz,29%
 "Kenya","Airtel",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,10 MHz,10 MHz,,20 MHz,29%
 "Kenya","Telkom Kenya",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,7.5 MHz,7.5 MHz,,15 MHz,21%
