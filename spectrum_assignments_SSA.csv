@@ -72,6 +72,7 @@
 "Nigeria","MTN",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
 "Nigeria","Airtel",2100MHz,1920 MHz,1980 MHz,2110 MHz,2170 MHz,120 MHz,10 MHz,10 MHz,,20 MHz,17%
 "Nigeria","Bitflux Comms",2300MHz,2300 MHz,2400 MHz,,,100 MHz,,,30 MHz,30 MHz,30%
+"Nigeria","MTN",2600MHz,2496 MHz,2690 MHz,,,194 MHz,30 MHz,30 MHz,,60 MHz,31%
 "Nigeria","MTN",3500MHz,3400 MHz,3600 MHz,,,200 MHz,,,30 MHz,30 MHz,15%
 "Senegal","Orange (Sonatel)",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,12.4 MHz,12.4 MHz,,25 MHz,35%
 "Senegal","Tigo (Sentel)",900MHz,880 MHz,915 MHz,925 MHz,960 MHz,70 MHz,10 MHz,10 MHz,,20 MHz,29%
