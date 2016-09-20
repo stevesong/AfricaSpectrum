@@ -25,6 +25,9 @@ Nigerian Communications Commission (NCC)
 
 * [Commercial Frequency Assignment Tables](http://www.ncc.gov.ng/index.php?option=com_content&view=article&id=84&Itemid=237)
 
+### Senegal
+* [Mecanismes D’Attribution Licenses 3G ,4G Expériences du SENEGAL http://www.fratel.org/wp-content/uploads/2014/04/2014-04-Pr%C3%A9sentation-Lamine-Dial.pdf]
+
 ### South Africa
 Independent Communications Authority of South Africa
  
